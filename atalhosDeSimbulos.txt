@@ -1,0 +1,10 @@
+PI = Ctrl + Shift + U + 03C0,
+Raiz Quadrada = Ctrl + Shift + U + 00B2,
+Raiz Cúbica = Ctrl + Shift + U + 00B3,
+
+
+Razões:
+
+sen(ª) = cateto oposto / hipotenusa
+cos(ª) = cateto adjacente / hipotenusa
+tg(ª) = cateto oposto / cateto adjacente

@@ -1,0 +1,17 @@
+{
+    "main": "scripts/script.js",
+    "version": "1.0.0",
+    "scripts": {
+        "capture_block": "node scripts/captureBlock.js",
+        "math_methods": "node scripts/MathMethods.js",
+        "methods_of_objects": "node scripts/methodsOfObjects.js",
+        "rtwl": "node scripts/repetitiveTasksWithLoops.js",
+        "data_types": "node scripts/dataTypes.js",
+        "script": "node scripts/script.js",
+        "paradigm": "node scripts/paradigm.js",
+        "destructuring": "node scripts/destructuring.js",
+        "advanced": "node scripts/module-3/advanced_javascript_features.js",
+        "browser": "node scripts/module-3/Javascript_user_browser.js",
+        "addfive": "node scripts/module4/addFive.js"
+    }
+}
